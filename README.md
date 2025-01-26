@@ -1,1 +1,1 @@
-<bold>Welcome to Website Project!</bold>
+<b>Welcome to Website Project!</b>
